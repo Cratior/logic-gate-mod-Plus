@@ -7,7 +7,6 @@ If you are editing the mod and making your own version im sorry that you chose t
 The code i have tried to also keep organised with comments.
 
 all with `*` are added or changed
-
 ## Conenction
 - Wires * Now shows current state of wire and can be colored
 
@@ -39,8 +38,12 @@ all with `*` are added or changed
 - Angle sensor * fixed to now work
 
 # Examples
-All examples are mine
+## Videos
+if you want to lean i recomend these videos
+https://www.youtube.com/watch?v=INEtYZqtjTo
 
+## My sfs logic gate builds
+All examples are mine
 ## Auto landing rocket
 ![image](https://github.com/Cratior/logic-gate-mod-Plus/assets/55932656/e5798ad0-7267-43bf-a3c8-28d251968344)
 ![image](https://github.com/Cratior/logic-gate-mod-Plus/assets/55932656/4981e22f-3625-4a75-bac0-a54b8721d66a)
