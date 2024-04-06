@@ -40,7 +40,7 @@ all with `*` are added or changed
 # Examples
 ## Videos
 if you want to lean i recomend these videos
-https://www.youtube.com/watch?v=INEtYZqtjTo
+- https://www.youtube.com/watch?v=INEtYZqtjTo
 
 ## My sfs logic gate builds
 All examples are mine
