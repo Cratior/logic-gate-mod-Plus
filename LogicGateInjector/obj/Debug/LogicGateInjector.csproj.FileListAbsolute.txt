@@ -1,0 +1,16 @@
+C:\Users\callu\Downloads\logic-gate-mod-main\LogicGateInjector\bin\Debug\LogicGateInjector.dll
+C:\Users\callu\Downloads\logic-gate-mod-main\LogicGateInjector\bin\Debug\LogicGateInjector.pdb
+C:\Users\callu\Downloads\logic-gate-mod-main\LogicGateInjector\bin\Debug\Assembly-CSharp.dll
+C:\Users\callu\Downloads\logic-gate-mod-main\LogicGateInjector\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\callu\Downloads\logic-gate-mod-main\LogicGateInjector\bin\Debug\UnityEngine.dll
+C:\Users\callu\Downloads\logic-gate-mod-main\LogicGateInjector\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\callu\Downloads\logic-gate-mod-main\LogicGateInjector\bin\Debug\Newtonsoft.Json.dll
+C:\Users\callu\Downloads\logic-gate-mod-main\LogicGateInjector\obj\Debug\LogicGateInjector.csproj.AssemblyReference.cache
+C:\Users\callu\Downloads\logic-gate-mod-main\LogicGateInjector\obj\Debug\LogicGateInjector.csproj.CoreCompileInputs.cache
+C:\Users\callu\Downloads\logic-gate-mod-main\LogicGateInjector\obj\Debug\LogicGateInjector.csproj.CopyComplete
+C:\Users\callu\Downloads\logic-gate-mod-main\LogicGateInjector\obj\Debug\LogicGateInjector.dll
+C:\Users\callu\Downloads\logic-gate-mod-main\LogicGateInjector\obj\Debug\LogicGateInjector.pdb
+C:\Users\callu\Downloads\logic-gate-mod-main\LogicGateInjector\bin\Debug\Sirenix.OdinInspector.Attributes.dll
+C:\Users\callu\Downloads\logic-gate-mod-main\LogicGateInjector\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Users\callu\Downloads\logic-gate-mod-main\LogicGateInjector\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\callu\Downloads\logic-gate-mod-main\LogicGateInjector\bin\Debug\UnityEngine.UI.dll
