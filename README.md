@@ -7,7 +7,6 @@ If you are editing the mod and making your own version im sorry that you chose t
 The code i have tried to also keep organised with comments.
 
 all with `*` are added or changed
-Adds
 
 ## Conenction
 - Wires * Now shows current state of wire and can be colored
