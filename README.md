@@ -6,7 +6,7 @@ Please keep in mid this will probably have errors so pelase report them and ill 
 If you are editing the mod and making your own version im sorry that you chose to use mine, ive tried to kjeep it tidy and organised but im not so good with that.
 The code i have tried to also keep organised with comments.
 
-all with `*` are added or changed
+all with `*` are added or changed if they continue with a version number thats the verstion they were added in.
 ## Conenction
 - Wires * Now shows current state of wire and can be colored
 
@@ -36,6 +36,8 @@ all with `*` are added or changed
 - Delay
 - Altimeter
 - Angle sensor * fixed to now work
+- Speed sensor * v0.65
+- Fuel sensor * v0.65
 
 # Examples
 ## Videos
